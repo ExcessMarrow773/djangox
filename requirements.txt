@@ -25,4 +25,3 @@ typing_extensions
 urllib3
 whitenoise
 Django-Verify-Email
-01OS
